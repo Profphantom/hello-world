@@ -2,8 +2,12 @@
 ## Lvl 0 - 1
 ### CODE(Bold)
 ** ssh bandit0@bandit.labs.overthewire.org -p 2220 **
+
 ** cat readme **
-* cleared with given passcode and generates passcode for lvl 1 * ** boJ9jbbUNNfktd78OOpsqOltutMc3MY1 **
+
+* cleared with given passcode and generates passcode for lvl 1 * 
+ 
+** boJ9jbbUNNfktd78OOpsqOltutMc3MY1 **
 
 ## Lvl 1 - 2
 ### CODE(Bold)
